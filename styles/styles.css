@@ -377,7 +377,7 @@ body {
     background-color: transparent;
     transition: 0.2s 0.1s;
 }
-.ham:{
+.ham:hover{
     transform: rotate(360deg);
 }
 .ham span {
@@ -553,7 +553,7 @@ margin: 5px 18px;
     background: rgba(234, 31, 31, 0.55);
     color: white;
 }
-}
+
 .title{
     font-size: 1.25rem;
     margin: 7px 10px;
